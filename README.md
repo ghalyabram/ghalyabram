@@ -1,11 +1,15 @@
 <div align="center">
 
   <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> -->
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="100%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
  <h1>Ghali-Abram⚡💻</h1>
  
   ## 💡 About Me
- 🇪🇬 Egyptian | Passionate about Coding & Tech 💻 | Bookworm & Podcast Addict 🎧 | Always Learning, Growing & Chasing Big Dreams 🚀<br>
+  🚀 Passionate developer & tech explorer  
+🎧 Always vibing to music while coding  
+📍 Based in the terminal most of the time
+ 🇪🇬 Egyptian | Passionate about Coding & Tech 💻 | Bookworm & Podcast Addict 🎧 | Always Learning
+ , Growing & Chasing Big Dreams 🚀<br>
  Believer in Hard Work, Persistence, and Daily Self-Improvement<br>
 
  ---

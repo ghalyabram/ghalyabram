@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> -->
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="100%"/><br>
  <h1>Ghali-Abram⚡💻</h1>
 <details>
  
-<summary><strong>🎧 Busy coding & vibing to:</strong></summary>
+<summary><strong>🎧 Busy coding & vibing & Code is love💻🚀 to:</strong></summary>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 

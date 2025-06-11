@@ -3,6 +3,12 @@
   <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="100%"/><br>
  <h1>Ghali-Abram⚡💻</h1>
+ 
+  ## 💡 About Me
+ 🇪🇬 Egyptian | Passionate about Coding & Tech 💻 | Bookworm & Podcast Addict 🎧 | Always Learning, Growing & Chasing Big Dreams 🚀<br>
+ Believer in Hard Work, Persistence, and Daily Self-Improvement<br>
+
+ ---
 <details>
  
 <summary><strong>🎧 Busy coding & vibing & Code is love💻🚀 to:</strong></summary>
@@ -42,13 +48,7 @@ class AboutMe {
 
 ---
 
-## 💡 About Me
 
---=> 🇪🇬 Egyptian | Passionate about Coding & Tech 💻 | Bookworm & Podcast Addict 🎧 | Always Learning, Growing & Chasing Big Dreams 🚀<br>
---=>⚡ Believer in Hard Work, Persistence, and Daily Self-Improvement<br>
---=>⚡💻 Learning: JavaScript | C++ | Python | HTML | CSS <br>
---=>⚡🛠 Tools I use: VS Code | Git | Linux 
- ---
 
 <div align="center">
 
